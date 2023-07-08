@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+[![AlexTLDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexTLDR)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **AlexTLDR/AlexTLDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...                  <img align="right" alt="Coding" width="400" src="/home/alex/Dropbox/GitHub/angela-connor-gopheras.gif">
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
