@@ -1,4 +1,4 @@
-<img align="left" width="200" height="100" src="https://github.com/AlexTLDR/AlexTLDR/blob/main/golang-what.gif">
+<img align="left" width="300" height="150" src="https://github.com/AlexTLDR/AlexTLDR/blob/main/golang-what.gif">
 
 ![AlexTLDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexTLDR&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTLDR&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
