@@ -1,4 +1,4 @@
-<img align="left" width="400" height="200" src="https://github.com/AlexTLDR/AlexTLDR/blob/main/golang-what.gif">
+<img align="left" width="200" height="100" src="https://github.com/AlexTLDR/AlexTLDR/blob/main/golang-what.gif">
 
 ![AlexTLDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexTLDR&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTLDR&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,8 +19,7 @@
 - ⚽ I enjoy a nice game with a cold 🍺
 </p>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<p align="left">
 <a href="https://www.linkedin.com/in/alexandru-badragan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://twitter.com/TldrAlex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
