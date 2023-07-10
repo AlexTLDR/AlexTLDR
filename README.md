@@ -1,7 +1,7 @@
 <img align="left" width="300" height="150" src="https://github.com/AlexTLDR/AlexTLDR/blob/main/golang-what.gif">
 
-![AlexTLDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexTLDR&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexTLDR&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![AlexTLDR's GitHub stats](https://github-readme-stats-alextldr.vercel.app//api?username=AlexTLDR&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats-alextldr.vercel.app//api/top-langs/?username=AlexTLDR&show_icons=true&theme=transparent)](https://github.com/AlexTLDR/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTLDR&theme=transparent&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <p align="left">
