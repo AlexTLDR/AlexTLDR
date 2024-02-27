@@ -11,7 +11,10 @@
 - 🗣️ I speak 🇷🇴Romanian, 🇬🇧English and 🇩🇪German 
 </p>
 <p align="left">
-- ⌨️ I’m currently learning Go  
+- ⌨️ I’m currently learning Terraform   
+</p>
+<p align="left">
+- 🔭 I’m currently working on <a href="https://github.com/AlexTLDR/FileSync>FileSync</a>
 </p>
 <p align="left">
 - 💻 I’m looking to learn Rust
