@@ -14,7 +14,7 @@
 - ⌨️ I’m currently learning Terraform   
 </p>
 <p align="left">
-- 🔭 I’m currently working on <a href="https://github.com/AlexTLDR/booking">booking</a>
+- 🔭 I’m currently working on <a href="https://github.com/AlexTLDR/AlexTLDR-dot-com">alextldr.com</a>
 </p>
 <p align="left">
 - 💻 I’m looking to learn Rust
