@@ -11,7 +11,7 @@
 - 🗣️ I speak 🇷🇴Romanian, 🇬🇧English and 🇩🇪German 
 </p>
 <p align="left">
-- ⌨️ I’m currently learning Terraform   
+- ⌨️ I'm primarily focused on working with Go but have begun expanding my skills to include the frontend stack  
 </p>
 <p align="left">
 - 🔭 I’m currently working on <a href="https://github.com/AlexTLDR/FileSync">FileSync</a>
