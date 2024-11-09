@@ -5,7 +5,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexTLDR&theme=transparent&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <p align="left">
-- 🌍 I Live in Stuttgart, Germany
+- 🌍 I Live in Schwäbisch Gmünd, Germany
 </p>
 <p align="left">
 - 🗣️ I speak 🇷🇴Romanian, 🇬🇧English and 🇩🇪German 
@@ -22,6 +22,10 @@
 <p align="left">
 - ⚽ I enjoy a nice game with a cold 🍺
 </p>
+<p align="left">
+  - 🌐 Check me out <a href="https://alextldr.com" title="Visit my personal website">online</a>
+</p>
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alexandru-badragan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
