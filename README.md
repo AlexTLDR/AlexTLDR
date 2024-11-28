@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on <a href="https://github.com/AlexTLDR/FileSync">FileSync</a>
 </p>
 <p align="left">
-- 💻 I am learning Python
+- 🐍 I am learning Python
 </p>
 <p align="left">
 - ⚽ I enjoy a nice game with a cold 🍺
