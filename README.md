@@ -14,7 +14,7 @@
 - ⌨️ I'm primarily focused on working with Go but have begun expanding my skills to include the frontend stack  
 </p>
 <p align="left">
-- 🔭 I’m currently working on <a href="https://github.com/AlexTLDR/FileSync">FileSync</a>
+- 🔭 I’m currently working on <a href="https://github.com/AlexTLDR/mycv.quest">mycv.quest</a>
 </p>
 <p align="left">
 - 🐍 I am learning Python
