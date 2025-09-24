@@ -41,7 +41,7 @@
 
 ## 📈 What I'm Up To
 
-- 🔭 **Building** <a href="https://github.com/AlexTLDR/mycv.quest">mycv.quest</a>
+- 🔭 **Building** <a href="https://mycv.quest">mycv.quest</a>
 - ⚡ **Learning** TypeScript to expand frontend capabilities
 - 👥 **Organizing** Stuttgart Gophers meetups and workshops
 - 🌱 **Exploring** HTMX, Alpine.js, and templ for modern web development
