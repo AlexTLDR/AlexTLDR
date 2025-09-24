@@ -41,11 +41,11 @@
 
 ## 📈 What I'm Up To
 
-- 🔭 **Building** [mycv.quest](https://mycv.quest){:target="_blank"}
+- 🔭 **Building** [mycv.quest](https://mycv.quest)
 - ⚡ **Learning** TypeScript to expand frontend capabilities
 - 👥 **Organizing** Stuttgart Gophers meetups and workshops
 - 🌱 **Exploring** HTMX, Alpine.js, and templ for modern web development
-- 📝 **Writing** technical insights on [my blog](https://blog.alextldr.com){:target="_blank"}
+- 📝 **Writing** technical insights on [my blog](https://blog.alextldr.com)
 
 ## 🏆 Certifications
 
