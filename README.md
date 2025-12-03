@@ -19,10 +19,9 @@
 ## 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/alpinejs-%238BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,18 +41,21 @@
 ## 📈 What I'm Up To
 
 - 🔭 **Building** <a href="https://github.com/AlexTLDR/mycv.quest">mycv.quest</a>
-- ⚡ **Learning** TypeScript to expand frontend capabilities
+- ⚡ **Learning** Rust
 - 👥 **Organizing** Stuttgart Gophers meetups and workshops
 - 🌱 **Exploring** HTMX, Alpine.js, and templ for modern web development
 - 📝 **Writing** technical insights on [my blog](https://blog.alextldr.com)
 
 ## 🏆 Certifications
 
-- 🔷 **HashiCorp Certified: Terraform Associate (003)**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🐹 **Practical Go Foundations**
-- 🐍 **Python OOP & Fundamentals**
-- 🛢️ **Neo4j & Cypher Certified**
+- ☸️ [**KCNA: Kubernetes and Cloud Native Associate**](https://www.credly.com/badges/874869b7-d988-4fa2-9b26-3879aedbc6f6)
+- 🔷 [**HashiCorp Certified: Terraform Associate (003)**](https://www.credly.com/badges/1cd93189-1692-483a-a8f4-40a74f2bc802/linked_in_profile)
+- ☁️ [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/2c428a04-31c0-4e3a-9161-fa6d2db09431/linked_in?t=s5pqre)
+- 🐹 [**Ardan Labs: Practical Go Foundations**](https://courses.ardanlabs.com/certificates/yb9r4bz5ef)
+- 🦀 [**Ardan Labs: Ultimate Rust Crash Course**](https://courses.ardanlabs.com/certificates/fjsdvrai1y)
+- 🎓 [**Boot.dev Back-end Developer Path Track**](https://www.boot.dev/certificates/4faea036-d70e-4e3e-b687-b319dd72a803)
+- 🛢️ [**Building Neo4j Applications with Go**](https://graphacademy.neo4j.com/c/19ee3c09-2b77-4cca-b2db-2496d88d308d/)
+- 📋 [**Certified ScrumMaster**](https://bcert.me/bc/html/profile.jsp?k=tfkazcz)
 
 ## 📊 GitHub Stats
 
